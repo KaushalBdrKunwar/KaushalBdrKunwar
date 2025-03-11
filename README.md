@@ -2,15 +2,15 @@
 <h3 align="center">A Passionate Computer Engineer from Kathmandu, Nepal</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaushalbdrkunwar&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kaushalbdrkunwar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 🚀 About Me  
-- 💻 Specializing in **Web Development & AI**  
+### 🚀 About Me  
+- 💻 I specialize in **Web Development & AI**  
 - 📚 Currently learning **Machine Learning & Deep Learning**  
-- 🔍 Open to **Open-Source Contributions & Collaborations**  
+- 🔍 Looking for **Open-Source Contributions & Collaborations**  
 - 📩 Reach me at **kaushalbdrkunwar@gmail.com**  
 - ⚡ Fun fact: **I love coding & problem-solving!**  
 
@@ -32,15 +32,15 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushalbdrkunwar&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaushalbdrkunwar&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalbdrkunwar&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalbdrkunwar&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushalbdrkunwar&show_icons=true&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushalbdrkunwar&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ## 🏆 GitHub Trophies  
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kaushalbdrkunwar&theme=github_dark&no-frame=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kaushalbdrkunwar&theme=onestar&no-bg=true" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -65,5 +65,3 @@
 </p>
 
 ---
-
-✨ **Thanks for visiting my profile!** If you like my work, feel free to **star⭐ my repositories!** 🚀  
