@@ -55,10 +55,10 @@
 
 ## 🌍 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/kaushal-bahadur-kunwar" target="_blank">
+  <a href="www.linkedin.com/in/kaushalkunwar" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40"/>
   </a>
-  <a href="mailto:kaushalbdrkunwar@gmail.com">
+  <a href="mailto:kaushalbahadurkunwar@gmail.com">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="Gmail" width="40"/>
   </a>
 </p>
